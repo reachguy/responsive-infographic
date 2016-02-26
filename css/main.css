@@ -27,6 +27,7 @@ html {
 }
 
 @media only screen and (min-width: 60em) {
+
   .woof {
     margin-top: -5em;
     margin-bottom: -10%;
